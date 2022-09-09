@@ -1,2 +1,3 @@
 Hi, Zeron
 Hi, Gig  // hot-fix 修复了
+Hot add 1 // hot 添加:
